@@ -12,6 +12,6 @@ Ukrainian audio was kindly provided either by Nash Format or Gwara Media for mac
 
 Before downloading, please read the license agreement at the bottom of this posting first!
 
-You can [download the M-AILABS Speech Dataset from my website](https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/).
+You can [download the M-AILABS Speech Dataset from my website](https://www.caito.de/?p=242).
 
 This repository is only a placeholder for the actual Dataset.
