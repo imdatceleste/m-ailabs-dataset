@@ -48,7 +48,7 @@ For each voice, there is the name and some `info.txt` containing information abo
 
 The full directory structure looks like this:
 
-[Screenshot](./images/dir_structure.png)
+[Screenshot](./images/dir_structure.png?raw=true)
 
 ## Format
 
@@ -121,11 +121,12 @@ Following character sets have been used in the data in the *transliterated, clea
 - Italian:   ASCII + `àéèìíîòóùúÀÉÈÌÍÎÒÓÙÚ`
 - Spanish:   ASCII + `¡¿ñáéíóúÁÉÍÓÚÑ`
 - French:    ASCII + `àâæçéèêëîïôœùûüÿŸÜÛÙŒÔÏÎËÊÈÉÇÆÂÀ`
-- Ukrainian: ASCII + [Image](./images/Screen-Shot-2019-01-03-at-13.46.06-.png)
-- Russian:   ASCII + [Image](./images/Screen-Shot-2019-01-03-at-13.46.14-.png)
-- Polish:    ASCII + [Image](./images/Screen-Shot-2019-01-03-at-13.46.22-.png)
+- Ukrainian: ASCII + [Image](./images/Screen-Shot-2019-01-03-at-13.46.06-.png?raw=true)
+- Russian:   ASCII + [Image](./images/Screen-Shot-2019-01-03-at-13.46.14-.png?raw=true)
+- Polish:    ASCII + [Image](./images/Screen-Shot-2019-01-03-at-13.46.22-.png?raw=true)
 
-## Statistics &amp; Download Links
+## Statistics & Download Links
+
 <table>
     <tbody>
         <tr>
