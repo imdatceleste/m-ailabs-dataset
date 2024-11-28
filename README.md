@@ -147,12 +147,12 @@ Following character sets have been used in the data in the *transliterated, clea
             <td>27 GiB</td>
             <td>20 GiB</td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/de_DE/f.wav">F</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/de_DE/f.wav">F</a>
                  / 
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/de_DE/m.wav">M</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/de_DE/m.wav">M</a>
             </td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/de_DE.tgz">DOWNLOAD</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/de_DE.tgz">DOWNLOAD</a>
             </td>
         </tr>
         <tr>
@@ -163,11 +163,11 @@ Following character sets have been used in the data in the *transliterated, clea
             <td>4.9 GiB</td>
             <td>3.5 GiB</td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/en_UK/f.wav">F</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/en_UK/f.wav">F</a>
                  / M
             </td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/en_UK.tgz">DOWNLOAD</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/en_UK.tgz">DOWNLOAD</a>
             </td>
         </tr>
         <tr>
@@ -178,12 +178,12 @@ Following character sets have been used in the data in the *transliterated, clea
             <td>11 GiB</td>
             <td>7.5 GiB</td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/en_US/f.wav">F</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/en_US/f.wav">F</a>
                  / 
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/en_US/m.wav">M</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/en_US/m.wav">M</a>
             </td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/en_US.tgz">DOWNLOAD</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/en_US.tgz">DOWNLOAD</a>
             </td>
         </tr>
         <tr>
@@ -194,12 +194,12 @@ Following character sets have been used in the data in the *transliterated, clea
             <td>12 GiB</td>
             <td>8.3 GiB</td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/es_ES/f.wav">F</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/es_ES/f.wav">F</a>
                  / 
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/es_ES/m.wav">M</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/es_ES/m.wav">M</a>
             </td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/es_ES.tgz">DOWNLOAD</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/es_ES.tgz">DOWNLOAD</a>
             </td>
         </tr>
         <tr>
@@ -210,12 +210,12 @@ Following character sets have been used in the data in the *transliterated, clea
             <td>14 GiB</td>
             <td>9.5 GiB</td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/it_IT/f.wav">F</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/it_IT/f.wav">F</a>
                  / 
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/it_IT/m.wav">M</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/it_IT/m.wav">M</a>
             </td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/it_IT.tgz">DOWNLOAD</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/it_IT.tgz">DOWNLOAD</a>
             </td>
         </tr>
         <tr>
@@ -226,12 +226,12 @@ Following character sets have been used in the data in the *transliterated, clea
             <td>9.3 GiB</td>
             <td>6.7 GiB</td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/uk_UK/f.wav">F</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/uk_UK/f.wav">F</a>
                  / 
-                <a href="https://data.solak.dedata/Training/stt_tts/samples/uk_UK/m.wav">M</a>
+                <a href="https://ics.tau-ceti.spacedata/Training/stt_tts/samples/uk_UK/m.wav">M</a>
             </td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/uk_UK.tgz">DOWNLOAD</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/uk_UK.tgz">DOWNLOAD</a>
             </td>
         </tr>
         <tr>
@@ -242,12 +242,12 @@ Following character sets have been used in the data in the *transliterated, clea
             <td>5.1 GiB</td>
             <td>3.6 GiB</td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/ru_RU/f.wav">F</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/ru_RU/f.wav">F</a>
                  / 
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/ru_RU/m.wav">M</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/ru_RU/m.wav">M</a>
             </td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/ru_RU.tgz">DOWNLOAD</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/ru_RU.tgz">DOWNLOAD</a>
             </td>
         </tr>
         <tr>
@@ -258,12 +258,12 @@ Following character sets have been used in the data in the *transliterated, clea
             <td>21 GiB</td>
             <td>15 GiB</td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/fr_FR/f.wav">F</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/fr_FR/f.wav">F</a>
                  / 
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/fr_FR/m.wav">M</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/fr_FR/m.wav">M</a>
             </td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/fr_FR.tgz">DOWNLOAD</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/fr_FR.tgz">DOWNLOAD</a>
             </td>
         </tr>
         <tr>
@@ -274,12 +274,12 @@ Following character sets have been used in the data in the *transliterated, clea
             <td>5.8 GiB</td>
             <td>4.2 GiB</td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/pl_PL/f.wav">F</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/pl_PL/f.wav">F</a>
                  / 
-                <a href="https://data.solak.de/data/Training/stt_tts/samples/pl_PL/m.wav">M</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/samples/pl_PL/m.wav">M</a>
             </td>
             <td>
-                <a href="https://data.solak.de/data/Training/stt_tts/pl_PL.tgz">DOWNLOAD</a>
+                <a href="https://ics.tau-ceti.space/data/Training/stt_tts/pl_PL.tgz">DOWNLOAD</a>
             </td>
         </tr>
         <tr>
